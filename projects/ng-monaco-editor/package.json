@@ -1,0 +1,16 @@
+{
+  "name": "@next-gen-tools/ng-monaco-editor",
+  "version": "1.0.0",
+  "description": "Angular library to integrate Monaco Editor",
+  "author": "Siva Geddada",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^19.0.0",
+    "@angular/core": "^19.0.0",
+    "monaco-editor": "^0.50.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
